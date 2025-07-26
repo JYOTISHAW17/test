@@ -4,3 +4,4 @@ if hungry == 'yes':
 else:
     print("Do your Homework.")
 print("Happy Day")
+print("It's Main")
